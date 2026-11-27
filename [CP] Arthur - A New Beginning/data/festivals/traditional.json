@@ -1,0 +1,324 @@
+{
+  "Changes": [
+    {
+      "Action": "EditData",
+      "Target": "Data/Festivals/spring13",
+      "Entries": {
+        "ArthurANB": "{{i18n:festival.spring13}}",
+        "ArthurANB_spouse": "{{i18n:festival.spring13.spouse}}"
+      },
+      "When": {
+        "EnableFestivalPlacement": true
+      },
+      "TextOperations": [
+        {
+          "Operation": "Append",
+          "Target": [
+            "Entries",
+            "Set-Up_additionalCharacters"
+          ],
+          "Value": "ArthurANB 18 65 2",
+          "Delimiter": "/"
+        },
+        {
+          "Operation": "Append",
+          "Target": [
+            "Entries",
+            "Set-Up_additionalCharacters_y1"
+          ],
+          "Value": "ArthurANB 18 65 2",
+          "Delimiter": "/"
+        },
+        {
+          "Operation": "Append",
+          "Target": [
+            "Entries",
+            "Set-Up_additionalCharacters_y2"
+          ],
+          "Value": "ArthurANB 18 65 2",
+          "Delimiter": "/"
+        }
+      ]
+    },
+    {
+      "Action": "EditData",
+      "Target": "Data/Festivals/spring24",
+      "Entries": {
+        "ArthurANB": "{{i18n:festival.spring24}}",
+        "ArthurANB_spouse": "{{i18n:festival.spring24.spouse}}"
+      },
+      "When": {
+        "EnableFestivalPlacement": true
+      },
+      "TextOperations": [
+        {
+          "Operation": "Append",
+          "Target": [
+            "Entries",
+            "Set-Up_additionalCharacters"
+          ],
+          "Value": "ArthurANB 22 25 2",
+          "Delimiter": "/"
+        },
+        {
+          "Operation": "Append",
+          "Target": [
+            "Entries",
+            "Set-Up_additionalCharacters_y1"
+          ],
+          "Value": "ArthurANB 22 25 2",
+          "Delimiter": "/"
+        },
+        {
+          "Operation": "Append",
+          "Target": [
+            "Entries",
+            "Set-Up_additionalCharacters_y2"
+          ],
+          "Value": "ArthurANB 22 25 2",
+          "Delimiter": "/"
+        }
+      ]
+    },
+    {
+      "Action": "EditData",
+      "Target": "Data/Festivals/summer11",
+      "Entries": {
+        "ArthurANB": "{{i18n:festival.summer11}}",
+        "ArthurANB_spouse": "{{i18n:festival.summer11.spouse}}"
+      },
+      "When": {
+        "EnableFestivalPlacement": true
+      },
+      "TextOperations": [
+        {
+          "Operation": "Append",
+          "Target": [
+            "Entries",
+            "Set-Up_additionalCharacters"
+          ],
+          "Value": "ArthurANB 24 16 2",
+          "Delimiter": "/"
+        },
+        {
+          "Operation": "Append",
+          "Target": [
+            "Entries",
+            "Set-Up_additionalCharacters_y1"
+          ],
+          "Value": "ArthurANB 24 16 2",
+          "Delimiter": "/"
+        },
+        {
+          "Operation": "Append",
+          "Target": [
+            "Entries",
+            "Set-Up_additionalCharacters_y2"
+          ],
+          "Value": "ArthurANB 24 16 2",
+          "Delimiter": "/"
+        }
+      ]
+    },
+    {
+      "Action": "EditData",
+      "Target": "Data/Festivals/summer28",
+      "Entries": {
+        "ArthurANB": "{{i18n:festival.summer28}}",
+        "ArthurANB_spouse": "{{i18n:festival.summer28.spouse}}"
+      },
+      "When": {
+        "EnableFestivalPlacement": true
+      },
+      "TextOperations": [
+        {
+          "Operation": "Append",
+          "Target": [
+            "Entries",
+            "Set-Up_additionalCharacters"
+          ],
+          "Value": "ArthurANB 23 34 2",
+          "Delimiter": "/"
+        },
+        {
+          "Operation": "Append",
+          "Target": [
+            "Entries",
+            "Set-Up_additionalCharacters_y1"
+          ],
+          "Value": "ArthurANB 23 34 2",
+          "Delimiter": "/"
+        },
+        {
+          "Operation": "Append",
+          "Target": [
+            "Entries",
+            "Set-Up_additionalCharacters_y2"
+          ],
+          "Value": "ArthurANB 23 34 2",
+          "Delimiter": "/"
+        }
+      ]
+    },
+    {
+      "Action": "EditData",
+      "Target": "Data/Festivals/fall16",
+      "Entries": {
+        "ArthurANB": "{{i18n:festival.fall16}}",
+        "ArthurANB_spouse": "{{i18n:festival.fall16.spouse}}"
+      },
+      "When": {
+        "EnableFestivalPlacement": true
+      },
+      "TextOperations": [
+        {
+          "Operation": "Append",
+          "Target": [
+            "Entries",
+            "Set-Up_additionalCharacters"
+          ],
+          "Value": "ArthurANB 23 65 2",
+          "Delimiter": "/"
+        },
+        {
+          "Operation": "Append",
+          "Target": [
+            "Entries",
+            "Set-Up_additionalCharacters_y1"
+          ],
+          "Value": "ArthurANB 23 65 2",
+          "Delimiter": "/"
+        },
+        {
+          "Operation": "Append",
+          "Target": [
+            "Entries",
+            "Set-Up_additionalCharacters_y2"
+          ],
+          "Value": "ArthurANB 23 65 2",
+          "Delimiter": "/"
+        }
+      ]
+    },
+    {
+      "Action": "EditData",
+      "Target": "Data/Festivals/fall27",
+      "Entries": {
+        "ArthurANB": "{{i18n:festival.fall27}}",
+        "ArthurANB_spouse": "{{i18n:festival.fall27.spouse}}"
+      },
+      "When": {
+        "EnableFestivalPlacement": true
+      },
+      "TextOperations": [
+        {
+          "Operation": "Append",
+          "Target": [
+            "Entries",
+            "Set-Up_additionalCharacters"
+          ],
+          "Value": "ArthurANB 20 57 2",
+          "Delimiter": "/"
+        },
+        {
+          "Operation": "Append",
+          "Target": [
+            "Entries",
+            "Set-Up_additionalCharacters_y1"
+          ],
+          "Value": "ArthurANB 20 57 2",
+          "Delimiter": "/"
+        },
+        {
+          "Operation": "Append",
+          "Target": [
+            "Entries",
+            "Set-Up_additionalCharacters_y2"
+          ],
+          "Value": "ArthurANB 20 57 2",
+          "Delimiter": "/"
+        }
+      ]
+    },
+    {
+      "Action": "EditData",
+      "Target": "Data/Festivals/winter8",
+      "Entries": {
+        "ArthurANB": "{{i18n:festival.winter8}}",
+        "ArthurANB_spouse": "{{i18n:festival.winter8.spouse}}"
+      },
+      "When": {
+        "EnableFestivalPlacement": true
+      },
+      "TextOperations": [
+        {
+          "Operation": "Append",
+          "Target": [
+            "Entries",
+            "Set-Up_additionalCharacters"
+          ],
+          "Value": "ArthurANB 14 18 2",
+          "Delimiter": "/"
+        },
+        {
+          "Operation": "Append",
+          "Target": [
+            "Entries",
+            "Set-Up_additionalCharacters_y1"
+          ],
+          "Value": "ArthurANB 14 18 2",
+          "Delimiter": "/"
+        },
+        {
+          "Operation": "Append",
+          "Target": [
+            "Entries",
+            "Set-Up_additionalCharacters_y2"
+          ],
+          "Value": "ArthurANB 14 18 2",
+          "Delimiter": "/"
+        }
+      ]
+    },
+    {
+      "Action": "EditData",
+      "Target": "Data/Festivals/winter25",
+      "Entries": {
+        "ArthurANB": "{{i18n:festival.winter25}}",
+        "ArthurANB_spouse": "{{i18n:festival.winter25.spouse}}"
+      },
+      "When": {
+        "EnableFestivalPlacement": true
+      },
+      "TextOperations": [
+        {
+          "Operation": "Append",
+          "Target": [
+            "Entries",
+            "Set-Up_additionalCharacters"
+          ],
+          "Value": "ArthurANB 24 62 2",
+          "Delimiter": "/"
+        },
+        {
+          "Operation": "Append",
+          "Target": [
+            "Entries",
+            "Set-Up_additionalCharacters_y1"
+          ],
+          "Value": "ArthurANB 24 62 2",
+          "Delimiter": "/"
+        },
+        {
+          "Operation": "Append",
+          "Target": [
+            "Entries",
+            "Set-Up_additionalCharacters_y2"
+          ],
+          "Value": "ArthurANB 24 62 2",
+          "Delimiter": "/"
+        }
+      ]
+    }
+  ]
+}

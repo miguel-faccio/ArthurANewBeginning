@@ -1,0 +1,26 @@
+{
+  "Changes": [
+    {
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueArthurANB",
+      "Entries": {
+        "Good_8": "{{i18n:little.first}}"
+      },
+      "When": {
+        "HasValue:{{Candidus42.LittleNPCs/FirstLittleNPC: Name}}": true,
+        "Relationship:ArthurANB": "Married"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueArthurANB",
+      "Entries": {
+        "Good_9": "{{i18n:little.second}}"
+      },
+      "When": {
+        "HasValue:{{Candidus42.LittleNPCs/SecondLittleNPC: Name}}": true,
+        "Relationship:ArthurANB": "Married"
+      }
+    }
+  ]
+}

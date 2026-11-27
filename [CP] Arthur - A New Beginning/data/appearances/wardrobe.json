@@ -1,0 +1,502 @@
+{
+  "Changes": [
+    {
+      "Action": "Load",
+      "Target": "Portraits/ArthurANB_Spring",
+      "FromFile": "assets/portraits/ArthurANB_Spring.png",
+      "When": {
+        "EnableSeasonalOutfits": true,
+        "EnableSpringOutfit": true,
+        "HasFile:assets/portraits/ArthurANB_Spring.png": true,
+        "HasFile:assets/characters/ArthurANB_Spring.png": true
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Characters/ArthurANB_Spring",
+      "FromFile": "assets/characters/ArthurANB_Spring.png",
+      "When": {
+        "EnableSeasonalOutfits": true,
+        "EnableSpringOutfit": true,
+        "HasFile:assets/portraits/ArthurANB_Spring.png": true,
+        "HasFile:assets/characters/ArthurANB_Spring.png": true
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Data/Characters",
+      "Entries": {
+        "Spring": {
+          "Id": "Spring",
+          "Precedence": 40,
+          "Portrait": "Portraits/ArthurANB_Spring",
+          "Sprite": "Characters/ArthurANB_Spring",
+          "Season": "spring"
+        }
+      },
+      "When": {
+        "EnableSeasonalOutfits": true,
+        "EnableSpringOutfit": true,
+        "HasFile:assets/portraits/ArthurANB_Spring.png": true,
+        "HasFile:assets/characters/ArthurANB_Spring.png": true
+      },
+      "TargetField": [
+        "ArthurANB",
+        "Appearance"
+      ]
+    },
+    {
+      "Action": "Load",
+      "Target": "Portraits/ArthurANB_Summer",
+      "FromFile": "assets/portraits/ArthurANB_Summer.png",
+      "When": {
+        "EnableSeasonalOutfits": true,
+        "EnableSummerOutfit": true,
+        "HasFile:assets/portraits/ArthurANB_Summer.png": true,
+        "HasFile:assets/characters/ArthurANB_Summer.png": true
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Characters/ArthurANB_Summer",
+      "FromFile": "assets/characters/ArthurANB_Summer.png",
+      "When": {
+        "EnableSeasonalOutfits": true,
+        "EnableSummerOutfit": true,
+        "HasFile:assets/portraits/ArthurANB_Summer.png": true,
+        "HasFile:assets/characters/ArthurANB_Summer.png": true
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Data/Characters",
+      "Entries": {
+        "Summer": {
+          "Id": "Summer",
+          "Precedence": 40,
+          "Portrait": "Portraits/ArthurANB_Summer",
+          "Sprite": "Characters/ArthurANB_Summer",
+          "Season": "summer"
+        }
+      },
+      "When": {
+        "EnableSeasonalOutfits": true,
+        "EnableSummerOutfit": true,
+        "HasFile:assets/portraits/ArthurANB_Summer.png": true,
+        "HasFile:assets/characters/ArthurANB_Summer.png": true
+      },
+      "TargetField": [
+        "ArthurANB",
+        "Appearance"
+      ]
+    },
+    {
+      "Action": "Load",
+      "Target": "Portraits/ArthurANB_Fall",
+      "FromFile": "assets/portraits/ArthurANB_Fall.png",
+      "When": {
+        "EnableSeasonalOutfits": true,
+        "EnableFallOutfit": true,
+        "HasFile:assets/portraits/ArthurANB_Fall.png": true,
+        "HasFile:assets/characters/ArthurANB_Fall.png": true
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Characters/ArthurANB_Fall",
+      "FromFile": "assets/characters/ArthurANB_Fall.png",
+      "When": {
+        "EnableSeasonalOutfits": true,
+        "EnableFallOutfit": true,
+        "HasFile:assets/portraits/ArthurANB_Fall.png": true,
+        "HasFile:assets/characters/ArthurANB_Fall.png": true
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Data/Characters",
+      "Entries": {
+        "Fall": {
+          "Id": "Fall",
+          "Precedence": 40,
+          "Portrait": "Portraits/ArthurANB_Fall",
+          "Sprite": "Characters/ArthurANB_Fall",
+          "Season": "fall"
+        }
+      },
+      "When": {
+        "EnableSeasonalOutfits": true,
+        "EnableFallOutfit": true,
+        "HasFile:assets/portraits/ArthurANB_Fall.png": true,
+        "HasFile:assets/characters/ArthurANB_Fall.png": true
+      },
+      "TargetField": [
+        "ArthurANB",
+        "Appearance"
+      ]
+    },
+    {
+      "Action": "Load",
+      "Target": "Portraits/ArthurANB_Winter",
+      "FromFile": "assets/portraits/ArthurANB_Winter.png",
+      "When": {
+        "EnableSeasonalOutfits": true,
+        "EnableWinterOutfit": true,
+        "HasFile:assets/portraits/ArthurANB_Winter.png": true,
+        "HasFile:assets/characters/ArthurANB_Winter.png": true
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Characters/ArthurANB_Winter",
+      "FromFile": "assets/characters/ArthurANB_Winter.png",
+      "When": {
+        "EnableSeasonalOutfits": true,
+        "EnableWinterOutfit": true,
+        "HasFile:assets/portraits/ArthurANB_Winter.png": true,
+        "HasFile:assets/characters/ArthurANB_Winter.png": true
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Data/Characters",
+      "Entries": {
+        "Winter": {
+          "Id": "Winter",
+          "Precedence": 40,
+          "Portrait": "Portraits/ArthurANB_Winter",
+          "Sprite": "Characters/ArthurANB_Winter",
+          "Season": "winter"
+        }
+      },
+      "When": {
+        "EnableSeasonalOutfits": true,
+        "EnableWinterOutfit": true,
+        "HasFile:assets/portraits/ArthurANB_Winter.png": true,
+        "HasFile:assets/characters/ArthurANB_Winter.png": true
+      },
+      "TargetField": [
+        "ArthurANB",
+        "Appearance"
+      ]
+    },
+    {
+      "Action": "Load",
+      "Target": "Portraits/ArthurANB_Rain",
+      "FromFile": "assets/portraits/ArthurANB_Rain.png",
+      "When": {
+        "EnableSpecialOutfits": true,
+        "EnableRainOutfit": true,
+        "HasFile:assets/portraits/ArthurANB_Rain.png": true,
+        "HasFile:assets/characters/ArthurANB_Rain.png": true
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Characters/ArthurANB_Rain",
+      "FromFile": "assets/characters/ArthurANB_Rain.png",
+      "When": {
+        "EnableSpecialOutfits": true,
+        "EnableRainOutfit": true,
+        "HasFile:assets/portraits/ArthurANB_Rain.png": true,
+        "HasFile:assets/characters/ArthurANB_Rain.png": true
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Data/Characters",
+      "Entries": {
+        "Rain": {
+          "Id": "Rain",
+          "Precedence": 20,
+          "Portrait": "Portraits/ArthurANB_Rain",
+          "Sprite": "Characters/ArthurANB_Rain",
+          "Condition": "WEATHER Here Rain Storm GreenRain",
+          "Indoors": false
+        }
+      },
+      "When": {
+        "EnableSpecialOutfits": true,
+        "EnableRainOutfit": true,
+        "HasFile:assets/portraits/ArthurANB_Rain.png": true,
+        "HasFile:assets/characters/ArthurANB_Rain.png": true
+      },
+      "TargetField": [
+        "ArthurANB",
+        "Appearance"
+      ]
+    },
+    {
+      "Action": "Load",
+      "Target": "Portraits/ArthurANB_Beach",
+      "FromFile": "assets/portraits/ArthurANB_Beach.png",
+      "When": {
+        "EnableSpecialOutfits": true,
+        "EnableBeachOutfit": true,
+        "HasFile:assets/portraits/ArthurANB_Beach.png": true,
+        "HasFile:assets/characters/ArthurANB_Beach.png": true
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Characters/ArthurANB_Beach",
+      "FromFile": "assets/characters/ArthurANB_Beach.png",
+      "When": {
+        "EnableSpecialOutfits": true,
+        "EnableBeachOutfit": true,
+        "HasFile:assets/portraits/ArthurANB_Beach.png": true,
+        "HasFile:assets/characters/ArthurANB_Beach.png": true
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Data/Characters",
+      "Entries": {
+        "Beach": {
+          "Id": "Beach",
+          "Precedence": 5,
+          "Portrait": "Portraits/ArthurANB_Beach",
+          "Sprite": "Characters/ArthurANB_Beach",
+          "IsIslandAttire": true
+        }
+      },
+      "When": {
+        "EnableSpecialOutfits": true,
+        "EnableBeachOutfit": true,
+        "HasFile:assets/portraits/ArthurANB_Beach.png": true,
+        "HasFile:assets/characters/ArthurANB_Beach.png": true
+      },
+      "TargetField": [
+        "ArthurANB",
+        "Appearance"
+      ]
+    },
+    {
+      "Action": "Load",
+      "Target": "Portraits/ArthurANB_Festival",
+      "FromFile": "assets/portraits/ArthurANB_Festival.png",
+      "When": {
+        "EnableSpecialOutfits": true,
+        "EnableFestivalOutfits": true,
+        "HasFile:assets/portraits/ArthurANB_Festival.png": true,
+        "HasFile:assets/characters/ArthurANB_Festival.png": true
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Characters/ArthurANB_Festival",
+      "FromFile": "assets/characters/ArthurANB_Festival.png",
+      "When": {
+        "EnableSpecialOutfits": true,
+        "EnableFestivalOutfits": true,
+        "HasFile:assets/portraits/ArthurANB_Festival.png": true,
+        "HasFile:assets/characters/ArthurANB_Festival.png": true
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Data/Characters",
+      "Entries": {
+        "Festival": {
+          "Id": "Festival",
+          "Precedence": 10,
+          "Portrait": "Portraits/ArthurANB_Festival",
+          "Sprite": "Characters/ArthurANB_Festival",
+          "Condition": "IS_FESTIVAL_DAY"
+        }
+      },
+      "When": {
+        "EnableSpecialOutfits": true,
+        "EnableFestivalOutfits": true,
+        "HasFile:assets/portraits/ArthurANB_Festival.png": true,
+        "HasFile:assets/characters/ArthurANB_Festival.png": true
+      },
+      "TargetField": [
+        "ArthurANB",
+        "Appearance"
+      ]
+    },
+    {
+      "Action": "Load",
+      "Target": "Portraits/ArthurANB_Pajamas",
+      "FromFile": "assets/portraits/ArthurANB_Pajamas.png",
+      "When": {
+        "EnableSpecialOutfits": true,
+        "EnablePajamas": true,
+        "HasFile:assets/portraits/ArthurANB_Pajamas.png": true,
+        "HasFile:assets/characters/ArthurANB_Pajamas.png": true
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Characters/ArthurANB_Pajamas",
+      "FromFile": "assets/characters/ArthurANB_Pajamas.png",
+      "When": {
+        "EnableSpecialOutfits": true,
+        "EnablePajamas": true,
+        "HasFile:assets/portraits/ArthurANB_Pajamas.png": true,
+        "HasFile:assets/characters/ArthurANB_Pajamas.png": true
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Data/Characters",
+      "Entries": {
+        "Pajamas": {
+          "Id": "Pajamas",
+          "Precedence": 15,
+          "Portrait": "Portraits/ArthurANB_Pajamas",
+          "Sprite": "Characters/ArthurANB_Pajamas",
+          "Condition": "LOCATION_NAME Here ArthurANB_House FarmHouse, TIME 2200 2600",
+          "Outdoors": false
+        }
+      },
+      "When": {
+        "EnableSpecialOutfits": true,
+        "EnablePajamas": true,
+        "HasFile:assets/portraits/ArthurANB_Pajamas.png": true,
+        "HasFile:assets/characters/ArthurANB_Pajamas.png": true
+      },
+      "TargetField": [
+        "ArthurANB",
+        "Appearance"
+      ]
+    },
+    {
+      "Action": "Load",
+      "Target": "Portraits/ArthurANB_Work",
+      "FromFile": "assets/portraits/ArthurANB_Work.png",
+      "When": {
+        "EnableSpecialOutfits": true,
+        "EnableWorkOutfit": true,
+        "HasFile:assets/portraits/ArthurANB_Work.png": true,
+        "HasFile:assets/characters/ArthurANB_Work.png": true
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Characters/ArthurANB_Work",
+      "FromFile": "assets/characters/ArthurANB_Work.png",
+      "When": {
+        "EnableSpecialOutfits": true,
+        "EnableWorkOutfit": true,
+        "HasFile:assets/portraits/ArthurANB_Work.png": true,
+        "HasFile:assets/characters/ArthurANB_Work.png": true
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Data/Characters",
+      "Entries": {
+        "Work": {
+          "Id": "Work",
+          "Precedence": 30,
+          "Portrait": "Portraits/ArthurANB_Work",
+          "Sprite": "Characters/ArthurANB_Work",
+          "Condition": "LOCATION_NAME Here ArthurANB_House, TIME 800 1200",
+          "Outdoors": false
+        }
+      },
+      "When": {
+        "EnableSpecialOutfits": true,
+        "EnableWorkOutfit": true,
+        "HasFile:assets/portraits/ArthurANB_Work.png": true,
+        "HasFile:assets/characters/ArthurANB_Work.png": true
+      },
+      "TargetField": [
+        "ArthurANB",
+        "Appearance"
+      ]
+    },
+    {
+      "Action": "Load",
+      "Target": "Portraits/ArthurANB_Spouse",
+      "FromFile": "assets/portraits/ArthurANB_Spouse.png",
+      "When": {
+        "EnableSpecialOutfits": true,
+        "EnableSpouseOutfit": true,
+        "HasFile:assets/portraits/ArthurANB_Spouse.png": true,
+        "HasFile:assets/characters/ArthurANB_Spouse.png": true
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Characters/ArthurANB_Spouse",
+      "FromFile": "assets/characters/ArthurANB_Spouse.png",
+      "When": {
+        "EnableSpecialOutfits": true,
+        "EnableSpouseOutfit": true,
+        "HasFile:assets/portraits/ArthurANB_Spouse.png": true,
+        "HasFile:assets/characters/ArthurANB_Spouse.png": true
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Data/Characters",
+      "Entries": {
+        "Spouse": {
+          "Id": "Spouse",
+          "Precedence": 32,
+          "Portrait": "Portraits/ArthurANB_Spouse",
+          "Sprite": "Characters/ArthurANB_Spouse",
+          "Condition": "PLAYER_NPC_RELATIONSHIP Current ArthurANB Married, LOCATION_NAME Here FarmHouse"
+        }
+      },
+      "When": {
+        "EnableSpecialOutfits": true,
+        "EnableSpouseOutfit": true,
+        "HasFile:assets/portraits/ArthurANB_Spouse.png": true,
+        "HasFile:assets/characters/ArthurANB_Spouse.png": true
+      },
+      "TargetField": [
+        "ArthurANB",
+        "Appearance"
+      ]
+    },
+    {
+      "Action": "Load",
+      "Target": "Portraits/ArthurANB_Birthday",
+      "FromFile": "assets/portraits/ArthurANB_Birthday.png",
+      "When": {
+        "EnableSpecialOutfits": true,
+        "EnableBirthdayOutfit": true,
+        "HasFile:assets/portraits/ArthurANB_Birthday.png": true,
+        "HasFile:assets/characters/ArthurANB_Birthday.png": true
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Characters/ArthurANB_Birthday",
+      "FromFile": "assets/characters/ArthurANB_Birthday.png",
+      "When": {
+        "EnableSpecialOutfits": true,
+        "EnableBirthdayOutfit": true,
+        "HasFile:assets/portraits/ArthurANB_Birthday.png": true,
+        "HasFile:assets/characters/ArthurANB_Birthday.png": true
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Data/Characters",
+      "Entries": {
+        "Birthday": {
+          "Id": "Birthday",
+          "Precedence": 12,
+          "Portrait": "Portraits/ArthurANB_Birthday",
+          "Sprite": "Characters/ArthurANB_Birthday",
+          "Condition": "SEASON Spring, DAY_OF_MONTH 17"
+        }
+      },
+      "When": {
+        "EnableSpecialOutfits": true,
+        "EnableBirthdayOutfit": true,
+        "HasFile:assets/portraits/ArthurANB_Birthday.png": true,
+        "HasFile:assets/characters/ArthurANB_Birthday.png": true
+      },
+      "TargetField": [
+        "ArthurANB",
+        "Appearance"
+      ]
+    }
+  ]
+}

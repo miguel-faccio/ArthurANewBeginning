@@ -1,0 +1,81 @@
+{
+  "Changes": [
+    {
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/Sam",
+      "Entries": {
+        "Fri_2": "{{i18n:villager.Sam}}"
+      },
+      "When": {
+        "EnableAdditionalVillagerDialogue": true,
+        "EnableSamDialogue": true
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/Sebastian",
+      "Entries": {
+        "Sat_2": "{{i18n:villager.Sebastian}}"
+      },
+      "When": {
+        "EnableAdditionalVillagerDialogue": true,
+        "EnableSebastianDialogue": true
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/Leah",
+      "Entries": {
+        "Wed_2": "{{i18n:villager.Leah}}"
+      },
+      "When": {
+        "EnableAdditionalVillagerDialogue": true,
+        "EnableLeahDialogue": true
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/Shane",
+      "Entries": {
+        "Fri_2": "{{i18n:villager.Shane}}"
+      },
+      "When": {
+        "EnableAdditionalVillagerDialogue": true,
+        "EnableShaneDialogue": true
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/Robin",
+      "Entries": {
+        "Tue_2": "{{i18n:villager.Robin}}"
+      },
+      "When": {
+        "EnableAdditionalVillagerDialogue": true,
+        "EnableRobinDialogue": true
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/Abigail",
+      "Entries": {
+        "Sat_2": "{{i18n:villager.Abigail}}"
+      },
+      "When": {
+        "EnableAdditionalVillagerDialogue": true,
+        "EnableAbigailDialogue": true
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/Penny",
+      "Entries": {
+        "Thu_2": "{{i18n:villager.Penny}}"
+      },
+      "When": {
+        "EnableAdditionalVillagerDialogue": true,
+        "EnablePennyDialogue": true
+      }
+    }
+  ]
+}

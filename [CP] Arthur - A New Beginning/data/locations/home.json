@@ -1,0 +1,111 @@
+{
+  "Changes": [
+    {
+      "Action": "Load",
+      "Target": "Maps/ArthurANB_House",
+      "FromFile": "assets/maps/ArthurANB_House.tmx"
+    },
+    {
+      "Action": "Load",
+      "Target": "Maps/ArthurANB_Lookout",
+      "FromFile": "assets/maps/ArthurANB_Lookout.tmx"
+    },
+    {
+      "Action": "Load",
+      "Target": "Maps/ArthurANB_SpouseRoom",
+      "FromFile": "assets/maps/ArthurANB_SpouseRoom.tmx"
+    },
+    {
+      "Action": "Load",
+      "Target": "Maps/ArthurANB_Patio",
+      "FromFile": "assets/maps/ArthurANB_Patio.tmx"
+    },
+    {
+      "Action": "EditData",
+      "Target": "Data/Locations",
+      "Entries": {
+        "ArthurANB_House": {
+          "DisplayName": "{{i18n:location.ArthurANB_House}}",
+          "DefaultArrivalTile": {
+            "X": 8,
+            "Y": 10
+          },
+          "CreateOnLoad": {
+            "MapPath": "Maps/ArthurANB_House",
+            "CanPlantHere": false,
+            "CanHaveGreenRainSpawns": false
+          }
+        },
+        "ArthurANB_Lookout": {
+          "DisplayName": "{{i18n:location.ArthurANB_Lookout}}",
+          "DefaultArrivalTile": {
+            "X": 8,
+            "Y": 10
+          },
+          "CreateOnLoad": {
+            "MapPath": "Maps/ArthurANB_Lookout",
+            "CanPlantHere": false,
+            "CanHaveGreenRainSpawns": false
+          }
+        }
+      }
+    },
+    {
+      "Action": "EditMap",
+      "Target": "Maps/Mountain",
+      "AddWarps": [
+        "48 30 ArthurANB_Lookout 8 10"
+      ],
+      "When": {
+        "HasMod|contains=FlashShifter.StardewValleyExpandedCP": false
+      }
+    },
+    {
+      "Action": "EditMap",
+      "Target": "Maps/Mountain",
+      "AddWarps": [
+        "47 30 ArthurANB_Lookout 8 10"
+      ],
+      "When": {
+        "HasMod|contains=FlashShifter.StardewValleyExpandedCP": true,
+        "EnableSVECompatibility": true,
+        "EnableOptionalCompatibilityPatches": true
+      }
+    },
+    {
+      "Action": "EditMap",
+      "Target": "Maps/ArthurANB_Lookout",
+      "MapProperties": {
+        "Warp": "8 11 Mountain 47 29"
+      },
+      "When": {
+        "HasMod|contains=FlashShifter.StardewValleyExpandedCP": true,
+        "EnableSVECompatibility": true,
+        "EnableOptionalCompatibilityPatches": true
+      }
+    },
+    {
+      "Action": "EditMap",
+      "Target": "Maps/Mountain",
+      "AddWarps": [
+        "48 30 ArthurANB_Lookout 8 10"
+      ],
+      "When": {
+        "HasMod|contains=FlashShifter.StardewValleyExpandedCP": true,
+        "EnableSVECompatibility": false
+      }
+    },
+    {
+      "Action": "EditMap",
+      "Target": "Maps/Mountain",
+      "AddWarps": [
+        "48 30 ArthurANB_Lookout 8 10"
+      ],
+      "When": {
+        "HasMod|contains=FlashShifter.StardewValleyExpandedCP": true,
+        "EnableSVECompatibility": true,
+        "EnableOptionalCompatibilityPatches": false
+      }
+    }
+  ]
+}

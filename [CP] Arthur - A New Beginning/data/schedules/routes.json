@@ -1,0 +1,179 @@
+{
+  "Changes": [
+    {
+      "Action": "Load",
+      "Target": "Characters/schedules/ArthurANB",
+      "FromFile": "assets/data/empty.json"
+    },
+    {
+      "Action": "EditData",
+      "Target": "Characters/schedules/ArthurANB",
+      "Entries": {
+        "Mon": "810 ArthurANB_House 3 4 0 arthuranb_draw/1300 Town 47 87 0/2130 ArthurANB_House 13 5 2 arthuranb_sleep",
+        "spring_Mon": "810 ArthurANB_House 3 4 0 arthuranb_draw/1300 Town 47 87 0/2130 ArthurANB_House 13 5 2 arthuranb_sleep",
+        "summer_Mon": "810 ArthurANB_House 3 4 0 arthuranb_draw/1300 Town 47 87 0/2130 ArthurANB_House 13 5 2 arthuranb_sleep",
+        "fall_Mon": "810 ArthurANB_House 3 4 0 arthuranb_draw/1300 Town 47 87 0/2130 ArthurANB_House 13 5 2 arthuranb_sleep",
+        "winter_Mon": "810 ArthurANB_House 3 4 0 arthuranb_draw/1300 Town 47 87 0/2130 ArthurANB_House 13 5 2 arthuranb_sleep",
+        "marriage_Mon": "850 ArthurANB_House 3 4 0 arthuranb_draw/1300 Town 47 87 0/2130 BusStop -1 23 3",
+        "Tue": "810 ArthurANB_House 3 4 0 arthuranb_draw/1210 SeedShop 9 17 3/2130 ArthurANB_House 13 5 2 arthuranb_sleep",
+        "spring_Tue": "810 ArthurANB_House 3 4 0 arthuranb_draw/1210 SeedShop 9 17 3/2130 ArthurANB_House 13 5 2 arthuranb_sleep",
+        "summer_Tue": "810 ArthurANB_House 3 4 0 arthuranb_draw/1210 SeedShop 9 17 3/2130 ArthurANB_House 13 5 2 arthuranb_sleep",
+        "fall_Tue": "810 ArthurANB_House 3 4 0 arthuranb_draw/1210 SeedShop 9 17 3/2130 ArthurANB_House 13 5 2 arthuranb_sleep",
+        "winter_Tue": "810 ArthurANB_House 3 4 0 arthuranb_draw/1210 SeedShop 9 17 3/2130 ArthurANB_House 13 5 2 arthuranb_sleep",
+        "Wed": "810 ArthurANB_House 3 4 0 arthuranb_draw/1130 Forest 14 40 2/2130 ArthurANB_House 13 5 2 arthuranb_sleep",
+        "spring_Wed": "810 ArthurANB_House 3 4 0 arthuranb_draw/1130 Forest 14 40 2/2130 ArthurANB_House 13 5 2 arthuranb_sleep",
+        "summer_Wed": "810 ArthurANB_House 3 4 0 arthuranb_draw/1130 Forest 14 40 2/2130 ArthurANB_House 13 5 2 arthuranb_sleep",
+        "fall_Wed": "810 ArthurANB_House 3 4 0 arthuranb_draw/1110 ArthurANB_Lookout 10 6 3/1420 Forest 14 40 2/2130 ArthurANB_House 13 5 2 arthuranb_sleep",
+        "winter_Wed": "810 ArthurANB_House 3 4 0 arthuranb_draw/1130 Forest 14 40 2/2130 ArthurANB_House 13 5 2 arthuranb_sleep",
+        "Thu": "810 ArthurANB_House 3 4 0 arthuranb_draw/1250 ArchaeologyHouse 11 9 0/2130 ArthurANB_House 13 5 2 arthuranb_sleep",
+        "spring_Thu": "810 ArthurANB_House 3 4 0 arthuranb_draw/1250 ArchaeologyHouse 11 9 0/2130 ArthurANB_House 13 5 2 arthuranb_sleep",
+        "summer_Thu": "810 ArthurANB_House 3 4 0 arthuranb_draw/1250 ArchaeologyHouse 11 9 0/2130 ArthurANB_House 13 5 2 arthuranb_sleep",
+        "fall_Thu": "810 ArthurANB_House 3 4 0 arthuranb_draw/1250 ArchaeologyHouse 11 9 0/2130 ArthurANB_House 13 5 2 arthuranb_sleep",
+        "winter_Thu": "810 ArthurANB_House 3 4 0 arthuranb_draw/1250 ArchaeologyHouse 11 9 0/2130 ArthurANB_House 13 5 2 arthuranb_sleep",
+        "marriage_Thu": "850 ArthurANB_House 3 4 0 arthuranb_draw/1250 ArchaeologyHouse 11 9 0/2130 BusStop -1 23 3",
+        "Fri": "810 ArthurANB_House 3 4 0 arthuranb_draw/1530 Saloon 42 17 2/2130 ArthurANB_House 13 5 2 arthuranb_sleep",
+        "spring_Fri": "810 ArthurANB_House 3 4 0 arthuranb_draw/1530 Saloon 42 17 2/2130 ArthurANB_House 13 5 2 arthuranb_sleep",
+        "summer_Fri": "810 ArthurANB_House 3 4 0 arthuranb_draw/1530 Saloon 42 17 2/2130 ArthurANB_House 13 5 2 arthuranb_sleep",
+        "fall_Fri": "810 ArthurANB_House 3 4 0 arthuranb_draw/1530 Saloon 42 17 2/2130 ArthurANB_House 13 5 2 arthuranb_sleep",
+        "winter_Fri": "810 ArthurANB_House 3 4 0 arthuranb_draw/1530 Saloon 42 17 2/2130 ArthurANB_House 13 5 2 arthuranb_sleep",
+        "marriage_Fri": "850 ArthurANB_House 3 4 0 arthuranb_draw/1530 Saloon 42 17 2/2130 BusStop -1 23 3",
+        "Sat": "810 ArthurANB_House 3 4 0 arthuranb_draw/1330 Saloon 33 18 0/2130 ArthurANB_House 13 5 2 arthuranb_sleep",
+        "spring_Sat": "810 ArthurANB_House 3 4 0 arthuranb_draw/1330 Saloon 33 18 0/2130 ArthurANB_House 13 5 2 arthuranb_sleep",
+        "summer_Sat": "810 ArthurANB_House 3 4 0 arthuranb_draw/1330 Saloon 33 18 0/2130 ArthurANB_House 13 5 2 arthuranb_sleep",
+        "fall_Sat": "810 ArthurANB_House 3 4 0 arthuranb_draw/1330 Saloon 33 18 0/2130 ArthurANB_House 13 5 2 arthuranb_sleep",
+        "winter_Sat": "810 ArthurANB_House 3 4 0 arthuranb_draw/1330 Saloon 33 18 0/2130 ArthurANB_House 13 5 2 arthuranb_sleep",
+        "marriage_Sat": "850 ArthurANB_House 3 4 0 arthuranb_draw/1330 Saloon 33 18 0/2130 BusStop -1 23 3",
+        "Sun": "810 ArthurANB_House 3 4 0 arthuranb_draw/1130 Beach 30 34 2/2130 ArthurANB_House 13 5 2 arthuranb_sleep",
+        "spring_Sun": "810 ArthurANB_House 3 4 0 arthuranb_draw/1130 Beach 30 34 2/2130 ArthurANB_House 13 5 2 arthuranb_sleep",
+        "summer_Sun": "950 Beach 30 34 2/1540 ArthurANB_Lookout 10 6 3/2130 ArthurANB_House 13 5 2 arthuranb_sleep",
+        "fall_Sun": "810 ArthurANB_House 3 4 0 arthuranb_draw/1130 Beach 30 34 2/2130 ArthurANB_House 13 5 2 arthuranb_sleep",
+        "winter_Sun": "810 ArthurANB_House 3 4 0 arthuranb_draw/1210 ArthurANB_Lookout 10 6 3/2130 ArthurANB_House 13 5 2 arthuranb_sleep",
+        "spring": "810 ArthurANB_House 3 4 0 arthuranb_draw/1300 Town 47 87 0/2130 ArthurANB_House 13 5 2 arthuranb_sleep",
+        "rain": "810 ArthurANB_House 3 4 0 arthuranb_draw/1530 ArthurANB_House 5 5 1 arthuranb_game/2130 ArthurANB_House 13 5 2 arthuranb_sleep",
+        "rain2": "810 ArthurANB_House 3 4 0 arthuranb_draw/1430 ArthurANB_House 10 6 0/1530 ArthurANB_House 5 5 1 arthuranb_game/2130 ArthurANB_House 13 5 2 arthuranb_sleep",
+        "GreenRain": "820 ArthurANB_House 8 6 0/1530 ArthurANB_House 5 5 1 arthuranb_game/2130 ArthurANB_House 13 5 2 arthuranb_sleep",
+        "spring_17": "900 ArthurANB_House 8 6 0/1500 Saloon 42 17 2/2130 ArthurANB_House 13 5 2 arthuranb_sleep",
+        "marriage_spring_17": "900 ArthurANB_House 8 6 0/1500 Saloon 42 17 2/2130 BusStop -1 23 3",
+        "spring_Wed_6": "810 ArthurANB_House 3 4 0 arthuranb_draw/1130 ArthurANB_Lookout 10 6 3/1450 Forest 14 40 2/2130 ArthurANB_House 13 5 2 arthuranb_sleep",
+        "NightMarket": "810 ArthurANB_House 3 4 0 arthuranb_draw/1720 Beach 30 34 2/2230 ArthurANB_House 13 5 2 arthuranb_sleep",
+        "marriage_NightMarket": "850 ArthurANB_House 3 4 0/1720 Beach 30 34 2/2230 BusStop -1 23 3",
+        "summer_20": "810 ArthurANB_House 3 4 0 arthuranb_draw/1210 Forest 14 40 2/2130 ArthurANB_House 13 5 2 arthuranb_sleep",
+        "summer_21": "GOTO summer_20",
+        "winter_12": "810 ArthurANB_House 3 4 0 arthuranb_draw/1210 Beach 30 34 2/2130 ArthurANB_House 13 5 2 arthuranb_sleep",
+        "winter_13": "GOTO winter_12"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Characters/schedules/ArthurANB",
+      "Entries": {
+        "Mon": "810 ArthurANB_House 3 4 0/1300 Town 47 87 0/2130 ArthurANB_House 13 5 2 arthuranb_sleep",
+        "spring_Mon": "810 ArthurANB_House 3 4 0/1300 Town 47 87 0/2130 ArthurANB_House 13 5 2 arthuranb_sleep",
+        "summer_Mon": "810 ArthurANB_House 3 4 0/1300 Town 47 87 0/2130 ArthurANB_House 13 5 2 arthuranb_sleep",
+        "fall_Mon": "810 ArthurANB_House 3 4 0/1300 Town 47 87 0/2130 ArthurANB_House 13 5 2 arthuranb_sleep",
+        "winter_Mon": "810 ArthurANB_House 3 4 0/1300 Town 47 87 0/2130 ArthurANB_House 13 5 2 arthuranb_sleep",
+        "marriage_Mon": "850 ArthurANB_House 3 4 0/1300 Town 47 87 0/2130 BusStop -1 23 3",
+        "Tue": "810 ArthurANB_House 3 4 0/1210 SeedShop 9 17 3/2130 ArthurANB_House 13 5 2 arthuranb_sleep",
+        "spring_Tue": "810 ArthurANB_House 3 4 0/1210 SeedShop 9 17 3/2130 ArthurANB_House 13 5 2 arthuranb_sleep",
+        "summer_Tue": "810 ArthurANB_House 3 4 0/1210 SeedShop 9 17 3/2130 ArthurANB_House 13 5 2 arthuranb_sleep",
+        "fall_Tue": "810 ArthurANB_House 3 4 0/1210 SeedShop 9 17 3/2130 ArthurANB_House 13 5 2 arthuranb_sleep",
+        "winter_Tue": "810 ArthurANB_House 3 4 0/1210 SeedShop 9 17 3/2130 ArthurANB_House 13 5 2 arthuranb_sleep",
+        "Wed": "810 ArthurANB_House 3 4 0/1130 Forest 14 40 2/2130 ArthurANB_House 13 5 2 arthuranb_sleep",
+        "spring_Wed": "810 ArthurANB_House 3 4 0/1130 Forest 14 40 2/2130 ArthurANB_House 13 5 2 arthuranb_sleep",
+        "summer_Wed": "810 ArthurANB_House 3 4 0/1130 Forest 14 40 2/2130 ArthurANB_House 13 5 2 arthuranb_sleep",
+        "fall_Wed": "810 ArthurANB_House 3 4 0/1110 ArthurANB_Lookout 10 6 3/1420 Forest 14 40 2/2130 ArthurANB_House 13 5 2 arthuranb_sleep",
+        "winter_Wed": "810 ArthurANB_House 3 4 0/1130 Forest 14 40 2/2130 ArthurANB_House 13 5 2 arthuranb_sleep",
+        "Thu": "810 ArthurANB_House 3 4 0/1250 ArchaeologyHouse 11 9 0/2130 ArthurANB_House 13 5 2 arthuranb_sleep",
+        "spring_Thu": "810 ArthurANB_House 3 4 0/1250 ArchaeologyHouse 11 9 0/2130 ArthurANB_House 13 5 2 arthuranb_sleep",
+        "summer_Thu": "810 ArthurANB_House 3 4 0/1250 ArchaeologyHouse 11 9 0/2130 ArthurANB_House 13 5 2 arthuranb_sleep",
+        "fall_Thu": "810 ArthurANB_House 3 4 0/1250 ArchaeologyHouse 11 9 0/2130 ArthurANB_House 13 5 2 arthuranb_sleep",
+        "winter_Thu": "810 ArthurANB_House 3 4 0/1250 ArchaeologyHouse 11 9 0/2130 ArthurANB_House 13 5 2 arthuranb_sleep",
+        "marriage_Thu": "850 ArthurANB_House 3 4 0/1250 ArchaeologyHouse 11 9 0/2130 BusStop -1 23 3",
+        "Fri": "810 ArthurANB_House 3 4 0/1530 Saloon 42 17 2/2130 ArthurANB_House 13 5 2 arthuranb_sleep",
+        "spring_Fri": "810 ArthurANB_House 3 4 0/1530 Saloon 42 17 2/2130 ArthurANB_House 13 5 2 arthuranb_sleep",
+        "summer_Fri": "810 ArthurANB_House 3 4 0/1530 Saloon 42 17 2/2130 ArthurANB_House 13 5 2 arthuranb_sleep",
+        "fall_Fri": "810 ArthurANB_House 3 4 0/1530 Saloon 42 17 2/2130 ArthurANB_House 13 5 2 arthuranb_sleep",
+        "winter_Fri": "810 ArthurANB_House 3 4 0/1530 Saloon 42 17 2/2130 ArthurANB_House 13 5 2 arthuranb_sleep",
+        "marriage_Fri": "850 ArthurANB_House 3 4 0/1530 Saloon 42 17 2/2130 BusStop -1 23 3",
+        "Sat": "810 ArthurANB_House 3 4 0/1330 Saloon 33 18 0/2130 ArthurANB_House 13 5 2 arthuranb_sleep",
+        "spring_Sat": "810 ArthurANB_House 3 4 0/1330 Saloon 33 18 0/2130 ArthurANB_House 13 5 2 arthuranb_sleep",
+        "summer_Sat": "810 ArthurANB_House 3 4 0/1330 Saloon 33 18 0/2130 ArthurANB_House 13 5 2 arthuranb_sleep",
+        "fall_Sat": "810 ArthurANB_House 3 4 0/1330 Saloon 33 18 0/2130 ArthurANB_House 13 5 2 arthuranb_sleep",
+        "winter_Sat": "810 ArthurANB_House 3 4 0/1330 Saloon 33 18 0/2130 ArthurANB_House 13 5 2 arthuranb_sleep",
+        "marriage_Sat": "850 ArthurANB_House 3 4 0/1330 Saloon 33 18 0/2130 BusStop -1 23 3",
+        "Sun": "810 ArthurANB_House 3 4 0/1130 Beach 30 34 2/2130 ArthurANB_House 13 5 2 arthuranb_sleep",
+        "spring_Sun": "810 ArthurANB_House 3 4 0/1130 Beach 30 34 2/2130 ArthurANB_House 13 5 2 arthuranb_sleep",
+        "fall_Sun": "810 ArthurANB_House 3 4 0/1130 Beach 30 34 2/2130 ArthurANB_House 13 5 2 arthuranb_sleep",
+        "winter_Sun": "810 ArthurANB_House 3 4 0/1210 ArthurANB_Lookout 10 6 3/2130 ArthurANB_House 13 5 2 arthuranb_sleep",
+        "spring": "810 ArthurANB_House 3 4 0/1300 Town 47 87 0/2130 ArthurANB_House 13 5 2 arthuranb_sleep",
+        "rain": "810 ArthurANB_House 3 4 0/1530 ArthurANB_House 5 5 1 arthuranb_game/2130 ArthurANB_House 13 5 2 arthuranb_sleep",
+        "rain2": "810 ArthurANB_House 3 4 0/1430 ArthurANB_House 10 6 0/1530 ArthurANB_House 5 5 1 arthuranb_game/2130 ArthurANB_House 13 5 2 arthuranb_sleep",
+        "spring_Wed_6": "810 ArthurANB_House 3 4 0/1130 ArthurANB_Lookout 10 6 3/1450 Forest 14 40 2/2130 ArthurANB_House 13 5 2 arthuranb_sleep",
+        "NightMarket": "810 ArthurANB_House 3 4 0/1720 Beach 30 34 2/2230 ArthurANB_House 13 5 2 arthuranb_sleep",
+        "summer_20": "810 ArthurANB_House 3 4 0/1210 Forest 14 40 2/2130 ArthurANB_House 13 5 2 arthuranb_sleep",
+        "winter_12": "810 ArthurANB_House 3 4 0/1210 Beach 30 34 2/2130 ArthurANB_House 13 5 2 arthuranb_sleep"
+      },
+      "When": {
+        "EnableArthurHomeOffice": false
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Characters/schedules/ArthurANB",
+      "Entries": {
+        "marriage_Mon": "850 ArthurANB_House 3 4 0 arthuranb_draw/1300 Town 47 87 0/1800 BusStop -1 23 3",
+        "marriage_Thu": "850 ArthurANB_House 3 4 0 arthuranb_draw/1250 ArchaeologyHouse 11 9 0/1800 BusStop -1 23 3",
+        "marriage_Fri": "850 ArthurANB_House 3 4 0 arthuranb_draw/1530 Saloon 42 17 2/1900 BusStop -1 23 3",
+        "marriage_Sat": "850 ArthurANB_House 3 4 0 arthuranb_draw/1330 Saloon 33 18 0/1800 BusStop -1 23 3"
+      },
+      "When": {
+        "Relationship:ArthurANB": "Married",
+        "HasValue:{{ChildNames |valueAt=0}}": true
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Characters/schedules/ArthurANB",
+      "Entries": {
+        "marriage_Mon": "850 ArthurANB_House 3 4 0/1300 Town 47 87 0/1800 BusStop -1 23 3",
+        "marriage_Thu": "850 ArthurANB_House 3 4 0/1250 ArchaeologyHouse 11 9 0/1800 BusStop -1 23 3",
+        "marriage_Fri": "850 ArthurANB_House 3 4 0/1530 Saloon 42 17 2/1900 BusStop -1 23 3",
+        "marriage_Sat": "850 ArthurANB_House 3 4 0/1330 Saloon 33 18 0/1800 BusStop -1 23 3"
+      },
+      "When": {
+        "Relationship:ArthurANB": "Married",
+        "HasValue:{{ChildNames |valueAt=0}}": true,
+        "EnableArthurHomeOffice": false
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Characters/schedules/ArthurANB",
+      "Entries": {
+        "GreenRain": "820 ArthurANB_House 8 6 0/1530 ArthurANB_House 5 5 1 arthuranb_game/1900 BusStop -1 23 3"
+      },
+      "When": {
+        "Relationship:ArthurANB": "Married"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Characters/schedules/ArthurANB",
+      "Entries": {
+        "winter_Wed": "820 ArthurANB_House 3 4 0/1120 ArthurANB_Lookout 10 6 2/1530 ArthurANB_House 5 5 1 arthuranb_game/2130 ArthurANB_House 13 5 2 arthuranb_sleep"
+      },
+      "When": {
+        "Weather": "Snow"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Data/animationDescriptions",
+      "Entries": {
+        "arthuranb_draw": "20/20 20 21 21/20",
+        "arthuranb_game": "22/22 22 23 23/22",
+        "arthuranb_sleep": "26/26/26//laying_down"
+      }
+    }
+  ]
+}

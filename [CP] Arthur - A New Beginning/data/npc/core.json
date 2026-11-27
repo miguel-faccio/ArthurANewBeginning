@@ -1,0 +1,94 @@
+{
+  "Changes": [
+    {
+      "Action": "Load",
+      "Target": "Portraits/ArthurANB",
+      "FromFile": "assets/portraits/ArthurANB.png",
+      "When": {
+        "HasFile:assets/portraits/ArthurANB.png": true,
+        "HasFile:assets/characters/ArthurANB.png": true
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Characters/ArthurANB",
+      "FromFile": "assets/characters/ArthurANB.png",
+      "When": {
+        "HasFile:assets/portraits/ArthurANB.png": true,
+        "HasFile:assets/characters/ArthurANB.png": true
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Data/Characters",
+      "Entries": {
+        "ArthurANB": {
+          "DisplayName": "{{i18n:npc.name}}",
+          "BirthSeason": "spring",
+          "BirthDay": 17,
+          "Gender": "Male",
+          "Age": "Adult",
+          "HomeRegion": "Town",
+          "Manner": "Polite",
+          "SocialAnxiety": "Outgoing",
+          "Optimism": "Positive",
+          "CanBeRomanced": true,
+          "KissSpriteIndex": 28,
+          "KissSpriteFacingRight": true,
+          "Appearance": [],
+          "Home": [
+            {
+              "Id": "Default",
+              "Location": "ArthurANB_House",
+              "Tile": {
+                "X": 13,
+                "Y": 5
+              },
+              "Direction": "down"
+            }
+          ],
+          "SpouseRoom": {
+            "MapAsset": "ArthurANB_SpouseRoom",
+            "MapSourceRect": {
+              "X": 0,
+              "Y": 0,
+              "Width": 6,
+              "Height": 9
+            }
+          },
+          "SpousePatio": {
+            "MapAsset": "ArthurANB_Patio",
+            "MapSourceRect": {
+              "X": 0,
+              "Y": 0,
+              "Width": 4,
+              "Height": 4
+            },
+            "SpriteAnimationFrames": [
+              [
+                24,
+                650
+              ],
+              [
+                25,
+                650
+              ]
+            ]
+          }
+        }
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Data/Characters",
+      "Fields": {
+        "ArthurANB": {
+          "SpousePatio": null
+        }
+      },
+      "When": {
+        "EnableSpouseOutdoorArea": false
+      }
+    }
+  ]
+}

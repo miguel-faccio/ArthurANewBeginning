@@ -1,0 +1,11 @@
+{
+  "Changes": [
+    {
+      "Action": "EditData",
+      "Target": "Data/NPCGiftTastes",
+      "Entries": {
+        "ArthurANB": "{{i18n:gift.love}}/206 220 233 253/{{i18n:gift.like}}/395 400 80 421 -79/{{i18n:gift.dislike}}/330 152 153 157 346 348/{{i18n:gift.hate}}/-20 168 169 170 171 172/{{i18n:gift.neutral}}/"
+      }
+    }
+  ]
+}

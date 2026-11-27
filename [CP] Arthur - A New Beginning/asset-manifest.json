@@ -1,0 +1,170 @@
+{
+  "assets/portraits/ArthurANB.png": {
+    "required": true,
+    "size": [
+      128,
+      384
+    ]
+  },
+  "assets/characters/ArthurANB.png": {
+    "required": true,
+    "size": [
+      64,
+      416
+    ]
+  },
+  "assets/portraits/ArthurANB_Spring.png": {
+    "required": false,
+    "size": [
+      128,
+      384
+    ]
+  },
+  "assets/characters/ArthurANB_Spring.png": {
+    "required": false,
+    "size": [
+      64,
+      416
+    ]
+  },
+  "assets/portraits/ArthurANB_Summer.png": {
+    "required": false,
+    "size": [
+      128,
+      384
+    ]
+  },
+  "assets/characters/ArthurANB_Summer.png": {
+    "required": false,
+    "size": [
+      64,
+      416
+    ]
+  },
+  "assets/portraits/ArthurANB_Fall.png": {
+    "required": false,
+    "size": [
+      128,
+      384
+    ]
+  },
+  "assets/characters/ArthurANB_Fall.png": {
+    "required": false,
+    "size": [
+      64,
+      416
+    ]
+  },
+  "assets/portraits/ArthurANB_Winter.png": {
+    "required": false,
+    "size": [
+      128,
+      384
+    ]
+  },
+  "assets/characters/ArthurANB_Winter.png": {
+    "required": false,
+    "size": [
+      64,
+      416
+    ]
+  },
+  "assets/portraits/ArthurANB_Rain.png": {
+    "required": false,
+    "size": [
+      128,
+      384
+    ]
+  },
+  "assets/characters/ArthurANB_Rain.png": {
+    "required": false,
+    "size": [
+      64,
+      416
+    ]
+  },
+  "assets/portraits/ArthurANB_Beach.png": {
+    "required": false,
+    "size": [
+      128,
+      384
+    ]
+  },
+  "assets/characters/ArthurANB_Beach.png": {
+    "required": false,
+    "size": [
+      64,
+      416
+    ]
+  },
+  "assets/portraits/ArthurANB_Festival.png": {
+    "required": false,
+    "size": [
+      128,
+      384
+    ]
+  },
+  "assets/characters/ArthurANB_Festival.png": {
+    "required": false,
+    "size": [
+      64,
+      416
+    ]
+  },
+  "assets/portraits/ArthurANB_Pajamas.png": {
+    "required": false,
+    "size": [
+      128,
+      384
+    ]
+  },
+  "assets/characters/ArthurANB_Pajamas.png": {
+    "required": false,
+    "size": [
+      64,
+      416
+    ]
+  },
+  "assets/portraits/ArthurANB_Work.png": {
+    "required": false,
+    "size": [
+      128,
+      384
+    ]
+  },
+  "assets/characters/ArthurANB_Work.png": {
+    "required": false,
+    "size": [
+      64,
+      416
+    ]
+  },
+  "assets/portraits/ArthurANB_Spouse.png": {
+    "required": false,
+    "size": [
+      128,
+      384
+    ]
+  },
+  "assets/characters/ArthurANB_Spouse.png": {
+    "required": false,
+    "size": [
+      64,
+      416
+    ]
+  },
+  "assets/portraits/ArthurANB_Birthday.png": {
+    "required": false,
+    "size": [
+      128,
+      384
+    ]
+  },
+  "assets/characters/ArthurANB_Birthday.png": {
+    "required": false,
+    "size": [
+      64,
+      416
+    ]
+  }
+}

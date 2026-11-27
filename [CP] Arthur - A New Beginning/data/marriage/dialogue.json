@@ -1,0 +1,64 @@
+{
+  "Changes": [
+    {
+      "Action": "Load",
+      "Target": "Characters/Dialogue/MarriageDialogueArthurANB",
+      "FromFile": "assets/data/empty.json"
+    },
+    {
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueArthurANB",
+      "Entries": {
+        "Indoor_Day_0": "{{i18n:marriage.Indoor_Day_0}}",
+        "Indoor_Day_1": "{{i18n:marriage.Indoor_Day_1}}",
+        "Indoor_Day_2": "{{i18n:marriage.Indoor_Day_2}}",
+        "Indoor_Day_3": "{{i18n:marriage.Indoor_Day_3}}",
+        "Indoor_Day_4": "{{i18n:marriage.Indoor_Day_4}}",
+        "Rainy_Day_0": "{{i18n:marriage.Rainy_Day_0}}",
+        "Rainy_Day_1": "{{i18n:marriage.Rainy_Day_1}}",
+        "Rainy_Day_2": "{{i18n:marriage.Rainy_Day_2}}",
+        "Rainy_Day_3": "{{i18n:marriage.Rainy_Day_3}}",
+        "Rainy_Day_4": "{{i18n:marriage.Rainy_Day_4}}",
+        "Indoor_Night_0": "{{i18n:marriage.Indoor_Night_0}}",
+        "Indoor_Night_1": "{{i18n:marriage.Indoor_Night_1}}",
+        "Indoor_Night_2": "{{i18n:marriage.Indoor_Night_2}}",
+        "Indoor_Night_3": "{{i18n:marriage.Indoor_Night_3}}",
+        "Indoor_Night_4": "{{i18n:marriage.Indoor_Night_4}}",
+        "Rainy_Night_0": "{{i18n:marriage.Rainy_Night_0}}",
+        "Rainy_Night_1": "{{i18n:marriage.Rainy_Night_1}}",
+        "Rainy_Night_2": "{{i18n:marriage.Rainy_Night_2}}",
+        "Rainy_Night_3": "{{i18n:marriage.Rainy_Night_3}}",
+        "Rainy_Night_4": "{{i18n:marriage.Rainy_Night_4}}",
+        "Rainy_Night_5": "{{i18n:marriage.Rainy_Night_5}}",
+        "funLeave_ArthurANB": "{{i18n:marriage.funLeave_ArthurANB}}",
+        "funReturn_ArthurANB": "{{i18n:marriage.funReturn_ArthurANB}}",
+        "spouseRoom_ArthurANB": "{{i18n:marriage.spouseRoom_ArthurANB}}",
+        "patio_ArthurANB": "{{i18n:marriage.patio_ArthurANB}}",
+        "Outdoor_ArthurANB": "{{i18n:marriage.Outdoor_ArthurANB}}",
+        "OneKid_0": "{{i18n:marriage.OneKid_0}}",
+        "OneKid_1": "{{i18n:marriage.OneKid_1}}",
+        "OneKid_2": "{{i18n:marriage.OneKid_2}}",
+        "OneKid_3": "{{i18n:marriage.OneKid_3}}",
+        "OneKid_4": "{{i18n:marriage.OneKid_4}}",
+        "TwoKids_0": "{{i18n:marriage.TwoKids_0}}",
+        "TwoKids_1": "{{i18n:marriage.TwoKids_1}}",
+        "TwoKids_2": "{{i18n:marriage.TwoKids_2}}",
+        "TwoKids_3": "{{i18n:marriage.TwoKids_3}}",
+        "TwoKids_4": "{{i18n:marriage.TwoKids_4}}",
+        "Good_0": "{{i18n:marriage.Good_0}}",
+        "Good_1": "{{i18n:marriage.Good_1}}",
+        "Good_2": "{{i18n:marriage.Good_2}}",
+        "Neutral_0": "{{i18n:marriage.Neutral_0}}",
+        "Bad_0": "{{i18n:marriage.Bad_0}}"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Data/EngagementDialogue",
+      "Entries": {
+        "ArthurANB0": "{{i18n:engagement.0}}",
+        "ArthurANB1": "{{i18n:engagement.1}}"
+      }
+    }
+  ]
+}

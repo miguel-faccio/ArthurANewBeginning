@@ -1,0 +1,226 @@
+{
+  "Format": "2.9.0",
+  "ConfigSchema": {
+    "EnableExtraHeartEvents": {
+      "AllowValues": "true, false",
+      "Default": "true"
+    },
+    "EnableFamilyEvents": {
+      "AllowValues": "true, false",
+      "Default": "true"
+    },
+    "EnableMarriageContent": {
+      "AllowValues": "true, false",
+      "Default": "true"
+    },
+    "EnableArthurHomeOffice": {
+      "AllowValues": "true, false",
+      "Default": "true"
+    },
+    "EnableSeasonalOutfits": {
+      "AllowValues": "true, false",
+      "Default": "true"
+    },
+    "EnableSpecialOutfits": {
+      "AllowValues": "true, false",
+      "Default": "true"
+    },
+    "EnableSpouseOutdoorArea": {
+      "AllowValues": "true, false",
+      "Default": "true"
+    },
+    "EnableSVECompatibility": {
+      "AllowValues": "true, false",
+      "Default": "true"
+    },
+    "EnableOptionalCompatibilityPatches": {
+      "AllowValues": "true, false",
+      "Default": "true"
+    },
+    "EnableChildModCompatibility": {
+      "AllowValues": "true, false",
+      "Default": "true"
+    },
+    "EnableFestivalPlacement": {
+      "AllowValues": "true, false",
+      "Default": "false"
+    },
+    "EnableAdditionalVillagerDialogue": {
+      "AllowValues": "true, false",
+      "Default": "false"
+    },
+    "EnableSpringOutfit": {
+      "AllowValues": "true, false",
+      "Default": "true"
+    },
+    "EnableSummerOutfit": {
+      "AllowValues": "true, false",
+      "Default": "true"
+    },
+    "EnableFallOutfit": {
+      "AllowValues": "true, false",
+      "Default": "true"
+    },
+    "EnableWinterOutfit": {
+      "AllowValues": "true, false",
+      "Default": "true"
+    },
+    "EnableRainOutfit": {
+      "AllowValues": "true, false",
+      "Default": "true"
+    },
+    "EnableBeachOutfit": {
+      "AllowValues": "true, false",
+      "Default": "true"
+    },
+    "EnableFestivalOutfits": {
+      "AllowValues": "true, false",
+      "Default": "true"
+    },
+    "EnablePajamas": {
+      "AllowValues": "true, false",
+      "Default": "true"
+    },
+    "EnableWorkOutfit": {
+      "AllowValues": "true, false",
+      "Default": "true"
+    },
+    "EnableSpouseOutfit": {
+      "AllowValues": "true, false",
+      "Default": "true"
+    },
+    "EnableBirthdayOutfit": {
+      "AllowValues": "true, false",
+      "Default": "true"
+    },
+    "EnableSamDialogue": {
+      "AllowValues": "true, false",
+      "Default": "true"
+    },
+    "EnableSebastianDialogue": {
+      "AllowValues": "true, false",
+      "Default": "true"
+    },
+    "EnableLeahDialogue": {
+      "AllowValues": "true, false",
+      "Default": "true"
+    },
+    "EnableShaneDialogue": {
+      "AllowValues": "true, false",
+      "Default": "true"
+    },
+    "EnableRobinDialogue": {
+      "AllowValues": "true, false",
+      "Default": "true"
+    },
+    "EnableAbigailDialogue": {
+      "AllowValues": "true, false",
+      "Default": "true"
+    },
+    "EnablePennyDialogue": {
+      "AllowValues": "true, false",
+      "Default": "true"
+    }
+  },
+  "Changes": [
+    {
+      "Action": "Include",
+      "FromFile": "data/npc/core.json",
+      "When": {
+        "HasFile:assets/portraits/ArthurANB.png": true,
+        "HasFile:assets/characters/ArthurANB.png": true
+      }
+    },
+    {
+      "Action": "Include",
+      "FromFile": "data/appearances/wardrobe.json",
+      "When": {
+        "HasFile:assets/portraits/ArthurANB.png": true,
+        "HasFile:assets/characters/ArthurANB.png": true
+      }
+    },
+    {
+      "Action": "Include",
+      "FromFile": "data/locations/home.json",
+      "When": {
+        "HasFile:assets/portraits/ArthurANB.png": true,
+        "HasFile:assets/characters/ArthurANB.png": true
+      }
+    },
+    {
+      "Action": "Include",
+      "FromFile": "data/gifts/tastes.json",
+      "When": {
+        "HasFile:assets/portraits/ArthurANB.png": true,
+        "HasFile:assets/characters/ArthurANB.png": true
+      }
+    },
+    {
+      "Action": "Include",
+      "FromFile": "data/schedules/routes.json",
+      "When": {
+        "HasFile:assets/portraits/ArthurANB.png": true,
+        "HasFile:assets/characters/ArthurANB.png": true
+      }
+    },
+    {
+      "Action": "Include",
+      "FromFile": "data/events/story.json",
+      "When": {
+        "HasFile:assets/portraits/ArthurANB.png": true,
+        "HasFile:assets/characters/ArthurANB.png": true
+      }
+    },
+    {
+      "Action": "Include",
+      "FromFile": "data/family/story.json",
+      "When": {
+        "HasFile:assets/portraits/ArthurANB.png": true,
+        "HasFile:assets/characters/ArthurANB.png": true
+      }
+    },
+    {
+      "Action": "Include",
+      "FromFile": "data/dialogue/everyday.json",
+      "When": {
+        "HasFile:assets/portraits/ArthurANB.png": true,
+        "HasFile:assets/characters/ArthurANB.png": true
+      }
+    },
+    {
+      "Action": "Include",
+      "FromFile": "data/marriage/dialogue.json",
+      "When": {
+        "HasFile:assets/portraits/ArthurANB.png": true,
+        "HasFile:assets/characters/ArthurANB.png": true
+      }
+    },
+    {
+      "Action": "Include",
+      "FromFile": "data/festivals/traditional.json",
+      "When": {
+        "HasFile:assets/portraits/ArthurANB.png": true,
+        "HasFile:assets/characters/ArthurANB.png": true
+      }
+    },
+    {
+      "Action": "Include",
+      "FromFile": "data/compatibility/villagers.json",
+      "When": {
+        "HasFile:assets/portraits/ArthurANB.png": true,
+        "HasFile:assets/characters/ArthurANB.png": true
+      }
+    },
+    {
+      "Action": "Include",
+      "FromFile": "data/compatibility/littlenpcs.json",
+      "When": {
+        "HasFile:assets/portraits/ArthurANB.png": true,
+        "HasFile:assets/characters/ArthurANB.png": true,
+        "EnableOptionalCompatibilityPatches": true,
+        "EnableChildModCompatibility": true,
+        "HasMod|contains=Candidus42.LittleNPCs": true
+      }
+    }
+  ]
+}

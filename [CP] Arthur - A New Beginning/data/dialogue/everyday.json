@@ -1,0 +1,196 @@
+{
+  "Changes": [
+    {
+      "Action": "Load",
+      "Target": "Characters/Dialogue/ArthurANB",
+      "FromFile": "assets/data/empty.json"
+    },
+    {
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/ArthurANB",
+      "Entries": {
+        "Introduction": "{{i18n:dialogue.Introduction}}",
+        "AcceptBouquet": "{{i18n:dialogue.AcceptBouquet}}",
+        "RejectBouquet_LowHearts": "{{i18n:dialogue.RejectBouquet_LowHearts}}",
+        "RejectBouquet_VeryLowHearts": "{{i18n:dialogue.RejectBouquet_VeryLowHearts}}",
+        "RejectMermaidPendant_Under10Hearts": "{{i18n:dialogue.RejectMermaidPendant_Under10Hearts}}",
+        "RejectMermaidPendant_NeedHouseUpgrade": "{{i18n:dialogue.RejectMermaidPendant_NeedHouseUpgrade}}",
+        "breakUp": "{{i18n:dialogue.breakUp}}",
+        "divorced": "{{i18n:dialogue.divorced}}",
+        "WipedMemory": "{{i18n:dialogue.WipedMemory}}",
+        "AcceptBirthdayGift_Loved": "{{i18n:dialogue.AcceptBirthdayGift_Loved}}",
+        "AcceptBirthdayGift_Positive": "{{i18n:dialogue.AcceptBirthdayGift_Positive}}",
+        "AcceptBirthdayGift_Negative": "{{i18n:dialogue.AcceptBirthdayGift_Negative}}",
+        "GreenRain": "{{i18n:dialogue.GreenRain}}",
+        "GreenRain_2": "{{i18n:dialogue.GreenRain_2}}",
+        "FlowerDance_Accept": "{{i18n:dialogue.FlowerDance_Accept}}",
+        "FlowerDance_Accept_Spouse": "{{i18n:dialogue.FlowerDance_Accept_Spouse}}",
+        "FlowerDance_Decline": "{{i18n:dialogue.FlowerDance_Decline}}",
+        "SpouseGiftJealous": "{{i18n:dialogue.SpouseGiftJealous}}",
+        "SpouseStardrop": "{{i18n:dialogue.SpouseStardrop}}",
+        "SpouseFarmhouseClutter": "{{i18n:dialogue.SpouseFarmhouseClutter}}",
+        "Spouse_MonstersInHouse": "{{i18n:dialogue.Spouse_MonstersInHouse}}",
+        "RejectGift_Divorced": "{{i18n:dialogue.RejectGift_Divorced}}",
+        "MovieInvitation": "{{i18n:dialogue.MovieInvitation}}",
+        "Resort": "{{i18n:dialogue.Resort}}",
+        "Resort_EnteringResort": "{{i18n:dialogue.Resort_EnteringResort}}",
+        "Resort_Leaving": "{{i18n:dialogue.Resort_Leaving}}",
+        "Resort_Bar": "{{i18n:dialogue.Resort_Bar}}",
+        "Resort_Shore": "{{i18n:dialogue.Resort_Shore}}",
+        "Resort_Wander": "{{i18n:dialogue.Resort_Wander}}",
+        "Resort_Chair": "{{i18n:dialogue.Resort_Chair}}",
+        "Resort_Dance": "{{i18n:dialogue.Resort_Dance}}",
+        "Resort_Towel": "{{i18n:dialogue.Resort_Towel}}",
+        "Resort_Umbrella": "{{i18n:dialogue.Resort_Umbrella}}",
+        "Mon": "{{i18n:dialogue.Mon}}",
+        "Tue": "{{i18n:dialogue.Tue}}",
+        "Wed": "{{i18n:dialogue.Wed}}",
+        "Thu": "{{i18n:dialogue.Thu}}",
+        "Fri": "{{i18n:dialogue.Fri}}",
+        "Sat": "{{i18n:dialogue.Sat}}",
+        "Sun": "{{i18n:dialogue.Sun}}",
+        "Mon2": "{{i18n:dialogue.Mon2}}",
+        "Tue2": "{{i18n:dialogue.Tue2}}",
+        "Wed2": "{{i18n:dialogue.Wed2}}",
+        "Thu2": "{{i18n:dialogue.Thu2}}",
+        "Fri2": "{{i18n:dialogue.Fri2}}",
+        "Sat2": "{{i18n:dialogue.Sat2}}",
+        "Sun2": "{{i18n:dialogue.Sun2}}",
+        "Mon4": "{{i18n:dialogue.Mon4}}",
+        "Tue4": "{{i18n:dialogue.Tue4}}",
+        "Wed4": "{{i18n:dialogue.Wed4}}",
+        "Thu4": "{{i18n:dialogue.Thu4}}",
+        "Fri4": "{{i18n:dialogue.Fri4}}",
+        "Sat4": "{{i18n:dialogue.Sat4}}",
+        "Sun4": "{{i18n:dialogue.Sun4}}",
+        "Mon6": "{{i18n:dialogue.Mon6}}",
+        "Tue6": "{{i18n:dialogue.Tue6}}",
+        "Wed6": "{{i18n:dialogue.Wed6}}",
+        "Thu6": "{{i18n:dialogue.Thu6}}",
+        "Fri6": "{{i18n:dialogue.Fri6}}",
+        "Sat6": "{{i18n:dialogue.Sat6}}",
+        "Sun6": "{{i18n:dialogue.Sun6}}",
+        "Mon8": "{{i18n:dialogue.Mon8}}",
+        "Tue8": "{{i18n:dialogue.Tue8}}",
+        "Wed8": "{{i18n:dialogue.Wed8}}",
+        "Thu8": "{{i18n:dialogue.Thu8}}",
+        "Fri8": "{{i18n:dialogue.Fri8}}",
+        "Sat8": "{{i18n:dialogue.Sat8}}",
+        "Sun8": "{{i18n:dialogue.Sun8}}",
+        "spring_17_*": "{{i18n:dialogue.spring_17_*}}",
+        "spring_2_1": "{{i18n:dialogue.spring_2_1}}",
+        "spring_9_*": "{{i18n:dialogue.spring_9_*}}",
+        "spring_21_*": "{{i18n:dialogue.spring_21_*}}",
+        "summer_3_*": "{{i18n:dialogue.summer_3_*}}",
+        "summer_14_*": "{{i18n:dialogue.summer_14_*}}",
+        "summer_20_*": "{{i18n:dialogue.summer_20_*}}",
+        "summer_21_*": "{{i18n:dialogue.summer_21_*}}",
+        "summer_23_*": "{{i18n:dialogue.summer_23_*}}",
+        "fall_2_*": "{{i18n:dialogue.fall_2_*}}",
+        "fall_13_*": "{{i18n:dialogue.fall_13_*}}",
+        "fall_25_*": "{{i18n:dialogue.fall_25_*}}",
+        "winter_3_*": "{{i18n:dialogue.winter_3_*}}",
+        "winter_10_*": "{{i18n:dialogue.winter_10_*}}",
+        "winter_12_*": "{{i18n:dialogue.winter_12_*}}",
+        "winter_13_*": "{{i18n:dialogue.winter_13_*}}",
+        "winter_15_*": "{{i18n:dialogue.winter_15_*}}",
+        "winter_16_*": "{{i18n:dialogue.winter_16_*}}",
+        "winter_17_*": "{{i18n:dialogue.winter_17_*}}",
+        "winter_27_*": "{{i18n:dialogue.winter_27_*}}",
+        "AcceptGift_(O)206": "{{i18n:dialogue.AcceptGift_(O)206}}",
+        "AcceptGift_(O)220": "{{i18n:dialogue.AcceptGift_(O)220}}",
+        "AcceptGift_(O)233": "{{i18n:dialogue.AcceptGift_(O)233}}",
+        "AcceptGift_(O)253": "{{i18n:dialogue.AcceptGift_(O)253}}",
+        "AcceptGift_(O)400": "{{i18n:dialogue.AcceptGift_(O)400}}",
+        "AcceptGift_(O)421": "{{i18n:dialogue.AcceptGift_(O)421}}"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/rainy",
+      "Entries": {
+        "ArthurANB": "{{i18n:weather.rain}}"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/rainy",
+      "Entries": {
+        "ArthurANB": "{{i18n:weather.storm}}"
+      },
+      "When": {
+        "Weather": "Storm"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/ArthurANB",
+      "Entries": {
+        "Mon10": "{{i18n:romance.Mon10}}"
+      },
+      "When": {
+        "Relationship:ArthurANB": "Dating, Engaged"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/ArthurANB",
+      "Entries": {
+        "Fri10": "{{i18n:romance.Fri10}}"
+      },
+      "When": {
+        "Relationship:ArthurANB": "Dating, Engaged"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/ArthurANB",
+      "Entries": {
+        "Tue": "{{i18n:follow.h02}}"
+      },
+      "When": {
+        "HasSeenEvent|contains=ArthurANewBeginning.Content_h02": true
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/ArthurANB",
+      "Entries": {
+        "Sat": "{{i18n:follow.h04}}"
+      },
+      "When": {
+        "HasSeenEvent|contains=ArthurANewBeginning.Content_h04": true
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/ArthurANB",
+      "Entries": {
+        "Mon": "{{i18n:follow.h06}}"
+      },
+      "When": {
+        "HasSeenEvent|contains=ArthurANewBeginning.Content_h06": true
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/ArthurANB",
+      "Entries": {
+        "Thu4": "{{i18n:progress.ccIsComplete}}"
+      },
+      "When": {
+        "HasFlag:hostPlayer|contains=ccIsComplete": true
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/ArthurANB",
+      "Entries": {
+        "Tue4": "{{i18n:progress.JojaMember}}"
+      },
+      "When": {
+        "HasFlag:hostPlayer|contains=JojaMember": true
+      }
+    }
+  ]
+}
